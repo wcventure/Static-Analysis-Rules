@@ -1,0 +1,3 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3824.c:33]: (error) Uninitialized variable: st
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3824.c:34]: (error) Uninitialized variable: st
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3824.c:1]: (style) The function 'ea_read_header' is never used.

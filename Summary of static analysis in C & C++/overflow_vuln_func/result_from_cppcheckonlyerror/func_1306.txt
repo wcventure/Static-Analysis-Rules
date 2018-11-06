@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1306.c:19]: (error) Uninitialized variable: lsa_counter
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1306.c:20]: (error) Uninitialized variable: lsa_counter

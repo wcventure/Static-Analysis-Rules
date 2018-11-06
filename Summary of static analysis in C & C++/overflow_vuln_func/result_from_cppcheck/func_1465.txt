@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1465.c:4]: (style) The scope of the variable 'sub_tvb' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1465.c:2]: (style) The function 'dissect_dsmcc_adaptation_header' is never used.

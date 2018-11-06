@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2186.c:93]: (style) Clarify calculation precedence for '&' and '?'.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2186.c:1]: (style) The function 'mirror_iteration' is never used.

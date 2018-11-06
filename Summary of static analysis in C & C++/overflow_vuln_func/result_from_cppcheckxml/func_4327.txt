@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::vbm_tree&apos; is never used." verbose="struct member &apos;WMAVoiceContext::vbm_tree&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="7"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::spillover_bitsize&apos; is never used." verbose="struct member &apos;WMAVoiceContext::spillover_bitsize&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="9"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::history_nsamples&apos; is never used." verbose="struct member &apos;WMAVoiceContext::history_nsamples&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="12"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::denoise_strength&apos; is never used." verbose="struct member &apos;WMAVoiceContext::denoise_strength&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="18"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::denoise_tilt_corr&apos; is never used." verbose="struct member &apos;WMAVoiceContext::denoise_tilt_corr&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="20"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::dc_level&apos; is never used." verbose="struct member &apos;WMAVoiceContext::dc_level&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="22"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::lsps&apos; is never used." verbose="struct member &apos;WMAVoiceContext::lsps&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="25"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::lsp_q_mode&apos; is never used." verbose="struct member &apos;WMAVoiceContext::lsp_q_mode&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="26"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::lsp_def_mode&apos; is never used." verbose="struct member &apos;WMAVoiceContext::lsp_def_mode&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="27"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::frame_lsp_bitsize&apos; is never used." verbose="struct member &apos;WMAVoiceContext::frame_lsp_bitsize&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="29"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::sframe_lsp_bitsize&apos; is never used." verbose="struct member &apos;WMAVoiceContext::sframe_lsp_bitsize&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="31"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::min_pitch_val&apos; is never used." verbose="struct member &apos;WMAVoiceContext::min_pitch_val&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="34"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::max_pitch_val&apos; is never used." verbose="struct member &apos;WMAVoiceContext::max_pitch_val&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="35"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::pitch_nbits&apos; is never used." verbose="struct member &apos;WMAVoiceContext::pitch_nbits&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="36"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::block_pitch_nbits&apos; is never used." verbose="struct member &apos;WMAVoiceContext::block_pitch_nbits&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="38"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::block_pitch_range&apos; is never used." verbose="struct member &apos;WMAVoiceContext::block_pitch_range&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="40"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::block_delta_pitch_nbits&apos; is never used." verbose="struct member &apos;WMAVoiceContext::block_delta_pitch_nbits&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="41"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::block_delta_pitch_hrange&apos; is never used." verbose="struct member &apos;WMAVoiceContext::block_delta_pitch_hrange&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="45"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::block_conv_table&apos; is never used." verbose="struct member &apos;WMAVoiceContext::block_conv_table&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="47"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::has_residual_lsps&apos; is never used." verbose="struct member &apos;WMAVoiceContext::has_residual_lsps&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="55"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::skip_bits_next&apos; is never used." verbose="struct member &apos;WMAVoiceContext::skip_bits_next&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="60"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::sframe_cache&apos; is never used." verbose="struct member &apos;WMAVoiceContext::sframe_cache&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="64"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::sframe_cache_size&apos; is never used." verbose="struct member &apos;WMAVoiceContext::sframe_cache_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="67"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::last_pitch_val&apos; is never used." verbose="struct member &apos;WMAVoiceContext::last_pitch_val&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="77"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::last_acb_type&apos; is never used." verbose="struct member &apos;WMAVoiceContext::last_acb_type&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="78"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::pitch_diff_sh16&apos; is never used." verbose="struct member &apos;WMAVoiceContext::pitch_diff_sh16&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="79"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::silence_gain&apos; is never used." verbose="struct member &apos;WMAVoiceContext::silence_gain&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="81"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::aw_idx_is_ext&apos; is never used." verbose="struct member &apos;WMAVoiceContext::aw_idx_is_ext&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="83"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::aw_pulse_range&apos; is never used." verbose="struct member &apos;WMAVoiceContext::aw_pulse_range&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="85"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::aw_n_pulses&apos; is never used." verbose="struct member &apos;WMAVoiceContext::aw_n_pulses&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="91"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::aw_first_pulse_off&apos; is never used." verbose="struct member &apos;WMAVoiceContext::aw_first_pulse_off&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="94"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::aw_next_pulse_off_cache&apos; is never used." verbose="struct member &apos;WMAVoiceContext::aw_next_pulse_off_cache&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="96"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::frame_cntr&apos; is never used." verbose="struct member &apos;WMAVoiceContext::frame_cntr&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="102"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::gain_pred_err&apos; is never used." verbose="struct member &apos;WMAVoiceContext::gain_pred_err&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="104"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::excitation_history&apos; is never used." verbose="struct member &apos;WMAVoiceContext::excitation_history&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="105"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::synth_history&apos; is never used." verbose="struct member &apos;WMAVoiceContext::synth_history&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="109"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::sin&apos; is never used." verbose="struct member &apos;WMAVoiceContext::sin&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="115"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::cos&apos; is never used." verbose="struct member &apos;WMAVoiceContext::cos&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="115"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::postfilter_agc&apos; is never used." verbose="struct member &apos;WMAVoiceContext::postfilter_agc&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="117"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::dcf_mem&apos; is never used." verbose="struct member &apos;WMAVoiceContext::dcf_mem&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="119"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::zero_exc_pf&apos; is never used." verbose="struct member &apos;WMAVoiceContext::zero_exc_pf&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="120"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::denoise_filter_cache&apos; is never used." verbose="struct member &apos;WMAVoiceContext::denoise_filter_cache&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="123"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;WMAVoiceContext::denoise_filter_cache_size&apos; is never used." verbose="struct member &apos;WMAVoiceContext::denoise_filter_cache_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4327.c" line="124"/>
+        </error>
+    </errors>
+</results>

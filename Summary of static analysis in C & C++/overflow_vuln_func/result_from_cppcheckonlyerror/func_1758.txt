@@ -1,0 +1,1 @@
+[gsmmap.cnf:438]: (error) Array 'bigbuf[1024]' accessed at index 1024, which is out of bounds.

@@ -1,0 +1,8 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:58]: (error) Uninitialized variable: l2_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:59]: (error) Uninitialized variable: l2_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:30]: (error) Uninitialized variable: l1_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:31]: (error) Uninitialized variable: l1_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:62]: (error) Uninitialized variable: nb_clusters
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:18]: (error) Uninitialized variable: bytes_available
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:21]: (error) Uninitialized variable: bytes_available
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2137.c:1]: (style) The function 'qcow2_get_cluster_offset' is never used.

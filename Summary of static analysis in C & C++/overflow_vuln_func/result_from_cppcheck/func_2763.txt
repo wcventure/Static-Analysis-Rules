@@ -1,0 +1,4 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2763.c:3]: (style) The scope of the variable 'i' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2763.c:4]: (style) The scope of the variable 'res' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2763.c:10]: (error) Shifting 64-bit value by 64 bits is undefined behaviour
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2763.c:1]: (style) The function 'fimd_swap_data' is never used.

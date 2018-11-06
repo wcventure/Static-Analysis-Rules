@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1047.c:10]: (error) No pair for character ('). Can't process file. File is either invalid or unicode, which is currently not supported.

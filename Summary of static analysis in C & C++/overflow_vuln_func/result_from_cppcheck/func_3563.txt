@@ -1,0 +1,16 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:2]: (style) struct member 'DNXHDContext::avctx' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:3]: (style) struct member 'DNXHDContext::rows' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:5]: (style) struct member 'DNXHDContext::buf' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:6]: (style) struct member 'DNXHDContext::buf_size' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:7]: (style) struct member 'DNXHDContext::cid' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:8]: (style) struct member 'DNXHDContext::width' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:8]: (style) struct member 'DNXHDContext::height' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:10]: (style) struct member 'DNXHDContext::mb_width' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:10]: (style) struct member 'DNXHDContext::mb_height' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:11]: (style) struct member 'DNXHDContext::mb_scan_index' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:16]: (style) struct member 'DNXHDContext::cid_table' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:17]: (style) struct member 'DNXHDContext::bit_depth' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:18]: (style) struct member 'DNXHDContext::is_444' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:19]: (style) struct member 'DNXHDContext::mbaff' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:20]: (style) struct member 'DNXHDContext::act' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3563.c:21]: (style) struct member 'DNXHDContext::decode_dct_block' is never used.

@@ -1,0 +1,3 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2340.c:10]: (error) Uninitialized variable: d
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2340.c:1]: (style) The function 'do_op_602_mfrom' is never used.
+(information) Cppcheck cannot find all the include files (use --check-config for details)

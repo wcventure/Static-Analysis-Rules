@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="syntaxError" severity="error" msg="syntax error" verbose="syntax error">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="111"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="16"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="24"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="32"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="44"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="52"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="71"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="93"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="101"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="109"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="122"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="130"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="138"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="146"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="158"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="166"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="173"/>
+        </error>
+        <error id="invalidPrintfArgType_uint" severity="warning" msg="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." verbose="%x in format string (no. 1) requires &apos;unsigned int&apos; but the argument type is &apos;unsigned long long&apos;." cwe="686">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="181"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;omap_rtc_write&apos; is never used." verbose="The function &apos;omap_rtc_write&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2462.c" line="1"/>
+        </error>
+    </errors>
+</results>

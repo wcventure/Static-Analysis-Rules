@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_458.c:8]: (style) The scope of the variable 'vnc_colormap_color_group' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_458.c:2]: (style) The function 'vnc_server_set_colormap_entries' is never used.

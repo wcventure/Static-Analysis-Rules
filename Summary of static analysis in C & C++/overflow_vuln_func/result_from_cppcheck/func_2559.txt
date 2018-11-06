@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2559.c:4]: (style) The scope of the variable 'addr' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2559.c:1]: (style) The function 'qemu_rdma_data_init' is never used.

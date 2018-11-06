@@ -1,0 +1,3 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_783.c:4]: (style) The scope of the variable 'version_ptr' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_783.c:4]: (style) Unused variable: version_str
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_783.c:2]: (style) The function 'dissect_camel_camelPDU' is never used.

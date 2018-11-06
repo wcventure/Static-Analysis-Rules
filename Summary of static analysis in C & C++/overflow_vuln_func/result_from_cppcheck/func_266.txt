@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_266.c:2]: (style) The function 'dissect_homeplug_av_nw_info_sta' is never used.

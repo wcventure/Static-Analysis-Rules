@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3614.c:1]: (style) The function 'OPNAMEh264_qpel8_h_lowpass_MMX' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3614.c:1]: (style) The function 'OPNAMEh264_qpel8_h_lowpass_l2_MMX' is never used.

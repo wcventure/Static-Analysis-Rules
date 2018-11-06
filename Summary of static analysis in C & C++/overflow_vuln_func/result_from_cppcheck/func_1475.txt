@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1475.c:2]: (style) The function 'proto_reg_handoff_dsmcc' is never used.

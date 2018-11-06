@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="ConfigurationNotChecked" severity="information" msg="Skipping configuration &apos;EDQUOT&apos; since the value of &apos;EDQUOT&apos; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." verbose="Skipping configuration &apos;EDQUOT&apos; since the value of &apos;EDQUOT&apos; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1065.c" line="14"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;file_write_error_message&apos; is never used." verbose="The function &apos;file_write_error_message&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1065.c" line="2"/>
+        </error>
+    </errors>
+</results>

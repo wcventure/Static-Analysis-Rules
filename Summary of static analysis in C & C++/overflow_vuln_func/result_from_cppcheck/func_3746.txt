@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3746.c:1]: (style) The function 'op_8tap_fname_szhv_opt' is never used.

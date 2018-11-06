@@ -1,0 +1,6 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2615.c:8]: (style) The scope of the variable 'refcount' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2615.c:16]: (error) Uninitialized variable: cluster_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2615.c:18]: (error) Uninitialized variable: cluster_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2615.c:28]: (error) Uninitialized variable: old_free_cluster_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2615.c:37]: (error) Uninitialized variable: old_free_cluster_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2615.c:1]: (style) The function 'qcow2_alloc_clusters_at' is never used.

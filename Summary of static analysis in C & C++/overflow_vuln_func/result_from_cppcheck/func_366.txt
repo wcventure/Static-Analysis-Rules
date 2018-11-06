@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_366.c:2]: (style) struct member '_rtd_t::num' is never used.

@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1725.c:2]: (style) The function 'dissect_isup_echo_control_information_parameter' is never used.

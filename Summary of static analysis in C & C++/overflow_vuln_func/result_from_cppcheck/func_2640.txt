@@ -1,0 +1,4 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2640.c:27]: (error) Uninitialized variable: numa_fw_cfg
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2640.c:28]: (error) Uninitialized variable: numa_fw_cfg
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2640.c:32]: (error) Uninitialized variable: numa_fw_cfg
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2640.c:1]: (style) The function 'bochs_bios_init' is never used.

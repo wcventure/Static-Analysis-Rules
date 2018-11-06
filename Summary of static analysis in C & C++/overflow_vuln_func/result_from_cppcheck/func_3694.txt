@@ -1,0 +1,12 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:2]: (style) struct member 'AC3Block::bap' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:3]: (style) struct member 'AC3Block::mdct_coef' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:4]: (style) struct member 'AC3Block::fixed_coef' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:5]: (style) struct member 'AC3Block::exp' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:6]: (style) struct member 'AC3Block::grouped_exp' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:7]: (style) struct member 'AC3Block::psd' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:8]: (style) struct member 'AC3Block::band_psd' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:9]: (style) struct member 'AC3Block::mask' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:10]: (style) struct member 'AC3Block::qmant' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:11]: (style) struct member 'AC3Block::exp_shift' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:12]: (style) struct member 'AC3Block::new_rematrixing_strategy' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3694.c:13]: (style) struct member 'AC3Block::rematrixing_flags' is never used.

@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1755.c:2]: (style) The function 'dissect_gsm_map_Ext_QoS_Subscribed' is never used.

@@ -1,0 +1,3 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1395.c:10]: (style) The scope of the variable 'tsi' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1395.c:11]: (style) The scope of the variable 'transport_stream_tree' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1395.c:2]: (style) The function 'dissect_dvb_bat' is never used.

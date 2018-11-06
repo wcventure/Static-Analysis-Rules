@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="syntaxError" severity="error" msg="No pair for character (&apos;). Can&apos;t process file. File is either invalid or unicode, which is currently not supported." verbose="No pair for character (&apos;). Can&apos;t process file. File is either invalid or unicode, which is currently not supported.">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1047.c" line="10"/>
+        </error>
+    </errors>
+</results>

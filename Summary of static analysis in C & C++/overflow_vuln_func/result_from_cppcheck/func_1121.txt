@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1121.c:3]: (style) struct member '_rpc_call_info::conversation' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1121.c:12]: (style) struct member '_rpc_call_info::proc_info' is never used.

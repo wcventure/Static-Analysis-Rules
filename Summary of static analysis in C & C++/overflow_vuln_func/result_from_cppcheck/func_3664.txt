@@ -1,0 +1,9 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:2]: (style) struct member 'Hnm4VideoContext::version' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:3]: (style) struct member 'Hnm4VideoContext::width' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:4]: (style) struct member 'Hnm4VideoContext::height' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:5]: (style) struct member 'Hnm4VideoContext::current' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:6]: (style) struct member 'Hnm4VideoContext::previous' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:7]: (style) struct member 'Hnm4VideoContext::buffer1' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:8]: (style) struct member 'Hnm4VideoContext::buffer2' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:9]: (style) struct member 'Hnm4VideoContext::processed' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3664.c:10]: (style) struct member 'Hnm4VideoContext::palette' is never used.

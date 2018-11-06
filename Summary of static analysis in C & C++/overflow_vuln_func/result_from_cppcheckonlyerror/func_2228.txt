@@ -1,0 +1,4 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2228.c:10]: (error) Uninitialized variable: cluster_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2228.c:12]: (error) Uninitialized variable: cluster_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2228.c:22]: (error) Uninitialized variable: old_free_cluster_index
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2228.c:31]: (error) Uninitialized variable: old_free_cluster_index

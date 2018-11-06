@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::version&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::version&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="2"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::width&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::width&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="3"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::height&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::height&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="4"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::current&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::current&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="5"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::previous&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::previous&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="6"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::buffer1&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::buffer1&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="7"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::buffer2&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::buffer2&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="8"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::processed&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::processed&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="9"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;Hnm4VideoContext::palette&apos; is never used." verbose="struct member &apos;Hnm4VideoContext::palette&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3664.c" line="10"/>
+        </error>
+    </errors>
+</results>

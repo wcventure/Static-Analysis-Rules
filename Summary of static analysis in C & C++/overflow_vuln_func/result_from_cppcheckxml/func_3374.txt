@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::av_class&apos; is never used." verbose="struct member &apos;USPPContext::av_class&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="2"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::log2_count&apos; is never used." verbose="struct member &apos;USPPContext::log2_count&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="3"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::qp&apos; is never used." verbose="struct member &apos;USPPContext::qp&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="4"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::qscale_type&apos; is never used." verbose="struct member &apos;USPPContext::qscale_type&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="5"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::temp_stride&apos; is never used." verbose="struct member &apos;USPPContext::temp_stride&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="6"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::src&apos; is never used." verbose="struct member &apos;USPPContext::src&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="7"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::temp&apos; is never used." verbose="struct member &apos;USPPContext::temp&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="8"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::outbuf_size&apos; is never used." verbose="struct member &apos;USPPContext::outbuf_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="9"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::outbuf&apos; is never used." verbose="struct member &apos;USPPContext::outbuf&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="10"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::frame&apos; is never used." verbose="struct member &apos;USPPContext::frame&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="12"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::frame_dec&apos; is never used." verbose="struct member &apos;USPPContext::frame_dec&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="13"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::non_b_qp_table&apos; is never used." verbose="struct member &apos;USPPContext::non_b_qp_table&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="14"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::non_b_qp_alloc_size&apos; is never used." verbose="struct member &apos;USPPContext::non_b_qp_alloc_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="15"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;USPPContext::use_bframe_qp&apos; is never used." verbose="struct member &apos;USPPContext::use_bframe_qp&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3374.c" line="16"/>
+        </error>
+    </errors>
+</results>

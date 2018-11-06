@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unassignedVariable" severity="style" msg="Variable &apos;tmp&apos; is not assigned a value." verbose="Variable &apos;tmp&apos; is not assigned a value." cwe="665">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="5"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tmp" verbose="Uninitialized variable: tmp" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="23"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tmp" verbose="Uninitialized variable: tmp" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="31"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tmp" verbose="Uninitialized variable: tmp" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="38"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tmp" verbose="Uninitialized variable: tmp" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="37"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tmp" verbose="Uninitialized variable: tmp" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="106"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tmp" verbose="Uninitialized variable: tmp" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="110"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;decode_main_header&apos; is never used." verbose="The function &apos;decode_main_header&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3576.c" line="1"/>
+        </error>
+    </errors>
+</results>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::class&apos; is never used." verbose="struct member &apos;DASHContext::class&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="2"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::extra_window_size&apos; is never used." verbose="struct member &apos;DASHContext::extra_window_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="4"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::min_seg_duration&apos; is never used." verbose="struct member &apos;DASHContext::min_seg_duration&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="5"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::remove_at_exit&apos; is never used." verbose="struct member &apos;DASHContext::remove_at_exit&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="6"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::use_template&apos; is never used." verbose="struct member &apos;DASHContext::use_template&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="7"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::use_timeline&apos; is never used." verbose="struct member &apos;DASHContext::use_timeline&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="8"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::single_file&apos; is never used." verbose="struct member &apos;DASHContext::single_file&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="9"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::streams&apos; is never used." verbose="struct member &apos;DASHContext::streams&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="10"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::has_video&apos; is never used." verbose="struct member &apos;DASHContext::has_video&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="11"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::has_audio&apos; is never used." verbose="struct member &apos;DASHContext::has_audio&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="11"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::last_duration&apos; is never used." verbose="struct member &apos;DASHContext::last_duration&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="12"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::total_duration&apos; is never used." verbose="struct member &apos;DASHContext::total_duration&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="13"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::availability_start_time&apos; is never used." verbose="struct member &apos;DASHContext::availability_start_time&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="14"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::dirname&apos; is never used." verbose="struct member &apos;DASHContext::dirname&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="15"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::single_file_name&apos; is never used." verbose="struct member &apos;DASHContext::single_file_name&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="16"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::init_seg_name&apos; is never used." verbose="struct member &apos;DASHContext::init_seg_name&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="17"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;DASHContext::media_seg_name&apos; is never used." verbose="struct member &apos;DASHContext::media_seg_name&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4475.c" line="18"/>
+        </error>
+    </errors>
+</results>

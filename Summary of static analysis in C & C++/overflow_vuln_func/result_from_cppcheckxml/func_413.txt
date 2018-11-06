@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;msg_error&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;msg_error&apos; is reassigned a value before the old one has been used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_413.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_413.c" line="23"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_413.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_413.c" line="21"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;packet_mpeg_sect_crc&apos; is never used." verbose="The function &apos;packet_mpeg_sect_crc&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_413.c" line="2"/>
+        </error>
+    </errors>
+</results>

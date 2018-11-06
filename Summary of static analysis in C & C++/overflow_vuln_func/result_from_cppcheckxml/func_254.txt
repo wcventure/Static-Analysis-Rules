@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tagtype" verbose="Uninitialized variable: tagtype" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_254.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_254.c" line="10"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: tagtype" verbose="Uninitialized variable: tagtype" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_254.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_254.c" line="19"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: taglength" verbose="Uninitialized variable: taglength" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_254.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_254.c" line="13"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;erf_meta_read_tag&apos; is never used." verbose="The function &apos;erf_meta_read_tag&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_254.c" line="1"/>
+        </error>
+    </errors>
+</results>

@@ -1,0 +1,2 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2914.c:20]: (style) Statements following return, break, continue, goto or throw will never be executed.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2914.c:1]: (style) The function 'ipmi_init_sensors_from_sdrs' is never used.

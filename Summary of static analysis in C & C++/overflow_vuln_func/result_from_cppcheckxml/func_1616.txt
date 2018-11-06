@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;starttime_item&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;starttime_item&apos; is reassigned a value before the old one has been used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="13"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="3"/>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;starttime_tree&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;starttime_tree&apos; is reassigned a value before the old one has been used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="14"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="4"/>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;endtime_item&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;endtime_item&apos; is reassigned a value before the old one has been used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="21"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="5"/>
+        </error>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;endtime_tree&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;endtime_tree&apos; is reassigned a value before the old one has been used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="22"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="6"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;dissect_r3_cmd_alarmlogdump&apos; is never used." verbose="The function &apos;dissect_r3_cmd_alarmlogdump&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1616.c" line="1"/>
+        </error>
+    </errors>
+</results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;ospf_lsa_upd_tree&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;ospf_lsa_upd_tree&apos; is reassigned a value before the old one has been used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" line="11"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" line="5"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: lsa_counter" verbose="Uninitialized variable: lsa_counter" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" line="19"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: lsa_counter" verbose="Uninitialized variable: lsa_counter" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" line="20"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;dissect_ospf_ls_upd&apos; is never used." verbose="The function &apos;dissect_ospf_ls_upd&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1306.c" line="2"/>
+        </error>
+    </errors>
+</results>

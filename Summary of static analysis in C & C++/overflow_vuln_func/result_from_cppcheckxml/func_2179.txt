@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::target&apos; is never used." verbose="struct member &apos;MirrorBlockJob::target&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="4"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::base&apos; is never used." verbose="struct member &apos;MirrorBlockJob::base&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="5"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::is_none_mode&apos; is never used." verbose="struct member &apos;MirrorBlockJob::is_none_mode&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="12"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::synced&apos; is never used." verbose="struct member &apos;MirrorBlockJob::synced&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="15"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::should_complete&apos; is never used." verbose="struct member &apos;MirrorBlockJob::should_complete&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="16"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::granularity&apos; is never used." verbose="struct member &apos;MirrorBlockJob::granularity&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="17"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::buf_size&apos; is never used." verbose="struct member &apos;MirrorBlockJob::buf_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="18"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::bdev_length&apos; is never used." verbose="struct member &apos;MirrorBlockJob::bdev_length&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="19"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::cow_bitmap&apos; is never used." verbose="struct member &apos;MirrorBlockJob::cow_bitmap&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="20"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::dirty_bitmap&apos; is never used." verbose="struct member &apos;MirrorBlockJob::dirty_bitmap&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="21"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::buf&apos; is never used." verbose="struct member &apos;MirrorBlockJob::buf&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="23"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::buf_free_count&apos; is never used." verbose="struct member &apos;MirrorBlockJob::buf_free_count&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="25"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::in_flight_bitmap&apos; is never used." verbose="struct member &apos;MirrorBlockJob::in_flight_bitmap&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="27"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::in_flight&apos; is never used." verbose="struct member &apos;MirrorBlockJob::in_flight&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="28"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::sectors_in_flight&apos; is never used." verbose="struct member &apos;MirrorBlockJob::sectors_in_flight&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="29"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::ret&apos; is never used." verbose="struct member &apos;MirrorBlockJob::ret&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="30"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::unmap&apos; is never used." verbose="struct member &apos;MirrorBlockJob::unmap&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="31"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::waiting_for_io&apos; is never used." verbose="struct member &apos;MirrorBlockJob::waiting_for_io&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="32"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::target_cluster_sectors&apos; is never used." verbose="struct member &apos;MirrorBlockJob::target_cluster_sectors&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="33"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;MirrorBlockJob::max_iov&apos; is never used." verbose="struct member &apos;MirrorBlockJob::max_iov&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2179.c" line="34"/>
+        </error>
+    </errors>
+</results>

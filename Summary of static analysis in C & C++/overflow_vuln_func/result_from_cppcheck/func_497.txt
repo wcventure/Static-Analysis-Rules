@@ -1,0 +1,6 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_497.c:72]: (style) Clarify calculation precedence for '&' and '?'.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_497.c:73]: (style) Clarify calculation precedence for '&' and '?'.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_497.c:74]: (style) Clarify calculation precedence for '&' and '?'.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_497.c:75]: (style) Clarify calculation precedence for '&' and '?'.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_497.c:76]: (style) Clarify calculation precedence for '&' and '?'.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_497.c:2]: (style) The function 'dissect_rsvp_session_attribute' is never used.

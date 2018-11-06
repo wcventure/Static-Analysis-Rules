@@ -1,0 +1,3 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2902.c:34]: (error) syntax error
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2902.c:40]: (error) syntax error
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2902.c:365]: (information) Skipping configuration 'ELF_PLAT_INIT' since the value of 'ELF_PLAT_INIT' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::class&apos; is never used." verbose="struct member &apos;OverlayContext::class&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="2"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::x&apos; is never used." verbose="struct member &apos;OverlayContext::x&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="3"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::y&apos; is never used." verbose="struct member &apos;OverlayContext::y&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="3"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::allow_packed_rgb&apos; is never used." verbose="struct member &apos;OverlayContext::allow_packed_rgb&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="5"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::main_is_packed_rgb&apos; is never used." verbose="struct member &apos;OverlayContext::main_is_packed_rgb&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="6"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::main_rgba_map&apos; is never used." verbose="struct member &apos;OverlayContext::main_rgba_map&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="7"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::main_has_alpha&apos; is never used." verbose="struct member &apos;OverlayContext::main_has_alpha&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="8"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::overlay_is_packed_rgb&apos; is never used." verbose="struct member &apos;OverlayContext::overlay_is_packed_rgb&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="9"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::overlay_rgba_map&apos; is never used." verbose="struct member &apos;OverlayContext::overlay_rgba_map&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="10"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::overlay_has_alpha&apos; is never used." verbose="struct member &apos;OverlayContext::overlay_has_alpha&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="11"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::overpicref&apos; is never used." verbose="struct member &apos;OverlayContext::overpicref&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="13"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::overpicref_next&apos; is never used." verbose="struct member &apos;OverlayContext::overpicref_next&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="13"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::main_pix_step&apos; is never used." verbose="struct member &apos;OverlayContext::main_pix_step&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="15"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::overlay_pix_step&apos; is never used." verbose="struct member &apos;OverlayContext::overlay_pix_step&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="16"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::hsub&apos; is never used." verbose="struct member &apos;OverlayContext::hsub&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="17"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::vsub&apos; is never used." verbose="struct member &apos;OverlayContext::vsub&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="17"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::x_expr&apos; is never used." verbose="struct member &apos;OverlayContext::x_expr&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="19"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;OverlayContext::y_expr&apos; is never used." verbose="struct member &apos;OverlayContext::y_expr&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4200.c" line="19"/>
+        </error>
+    </errors>
+</results>

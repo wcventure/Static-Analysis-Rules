@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="redundantAssignment" severity="style" msg="Variable &apos;label&apos; is reassigned a value before the old one has been used." verbose="Variable &apos;label&apos; is reassigned a value before the old one has been used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_163.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_163.c" line="9"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_163.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_163.c" line="6"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;fBACnetPropertyStates&apos; is never used." verbose="The function &apos;fBACnetPropertyStates&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_163.c" line="2"/>
+        </error>
+    </errors>
+</results>

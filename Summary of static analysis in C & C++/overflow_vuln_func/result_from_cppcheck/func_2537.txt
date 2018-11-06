@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2537.c:1]: (style) The function 'cirrus_mem_writeb_mode4and5_16bpp' is never used.

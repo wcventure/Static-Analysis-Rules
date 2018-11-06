@@ -1,0 +1,7 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3071.c:10]: (style) The function 'libAVMemInputPin_AddRef' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3071.c:24]: (style) The function 'libAVMemInputPin_GetAllocator' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3071.c:37]: (style) The function 'libAVMemInputPin_GetAllocatorRequirements' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3071.c:30]: (style) The function 'libAVMemInputPin_NotifyAllocator' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3071.c:2]: (style) The function 'libAVMemInputPin_QueryInterface' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3071.c:44]: (style) The function 'libAVMemInputPin_Receive' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3071.c:17]: (style) The function 'libAVMemInputPin_Release' is never used.

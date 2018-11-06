@@ -1,0 +1,3 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2555.c:12]: (style) The scope of the variable 'x' can be reduced.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2555.c:35]: (portability) 'host_addr' is of type 'void *'. When using void pointers in calculations, the behaviour is undefined.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2555.c:1]: (style) The function 'rdma_add_block' is never used.

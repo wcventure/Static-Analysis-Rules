@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;snmp_set_suffix_only_p&apos; can be reduced." verbose="The scope of the variable &apos;snmp_set_suffix_only_p&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="6"/>
+        </error>
+        <error id="variableScope" severity="style" msg="The scope of the variable &apos;ds_set_int_p&apos; can be reduced." verbose="The scope of the variable &apos;ds_set_int_p&apos; can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for &apos;i&apos; can be reduced:\012void f(int x)\012{\012    int i = 0;\012    if (x) {\012        // it&apos;s safe to move &apos;int i = 0;&apos; here\012        for (int n = 0; n &lt; 10; ++n) {\012            // it is possible but not safe to move &apos;int i = 0;&apos; here\012            do_something(&amp;i);\012        }\012    }\012}\012When you see this message it is always safe to reduce the variable scope 1 level." cwe="398">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="7"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: libsnmp_handle" verbose="Uninitialized variable: libsnmp_handle" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="41"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: libsnmp_handle" verbose="Uninitialized variable: libsnmp_handle" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="42"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: snmp_set_suffix_only_p" verbose="Uninitialized variable: snmp_set_suffix_only_p" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="47"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: snmp_set_suffix_only_p" verbose="Uninitialized variable: snmp_set_suffix_only_p" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="49"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: ds_set_int_p" verbose="Uninitialized variable: ds_set_int_p" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="54"/>
+        </error>
+        <error id="uninitvar" severity="error" msg="Uninitialized variable: ds_set_int_p" verbose="Uninitialized variable: ds_set_int_p" cwe="908">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="55"/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;proto_register_snmp&apos; is never used." verbose="The function &apos;proto_register_snmp&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1785.c" line="2"/>
+        </error>
+    </errors>
+</results>

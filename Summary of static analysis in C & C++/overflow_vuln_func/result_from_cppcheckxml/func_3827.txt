@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::seqno&apos; is never used." verbose="struct member &apos;ASFContext::seqno&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="2"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::is_streamed&apos; is never used." verbose="struct member &apos;ASFContext::is_streamed&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="3"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::duration&apos; is never used." verbose="struct member &apos;ASFContext::duration&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="7"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::packet_size_left&apos; is never used." verbose="struct member &apos;ASFContext::packet_size_left&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="10"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::packet_timestamp_start&apos; is never used." verbose="struct member &apos;ASFContext::packet_timestamp_start&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="11"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::packet_timestamp_end&apos; is never used." verbose="struct member &apos;ASFContext::packet_timestamp_end&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="12"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::packet_nb_payloads&apos; is never used." verbose="struct member &apos;ASFContext::packet_nb_payloads&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="13"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::packet_buf&apos; is never used." verbose="struct member &apos;ASFContext::packet_buf&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="14"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::last_indexed_pts&apos; is never used." verbose="struct member &apos;ASFContext::last_indexed_pts&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="19"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::index_ptr&apos; is never used." verbose="struct member &apos;ASFContext::index_ptr&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="20"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::nb_index_count&apos; is never used." verbose="struct member &apos;ASFContext::nb_index_count&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="21"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::nb_index_memory_alloc&apos; is never used." verbose="struct member &apos;ASFContext::nb_index_memory_alloc&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="22"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;ASFContext::maximum_packet&apos; is never used." verbose="struct member &apos;ASFContext::maximum_packet&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3827.c" line="23"/>
+        </error>
+    </errors>
+</results>

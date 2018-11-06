@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="shiftTooManyBits" severity="warning" msg="Shifting 32-bit value by 32 bits is undefined behaviour. See condition at line 16." verbose="Shifting 32-bit value by 32 bits is undefined behaviour. See condition at line 16." cwe="758">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" line="17" info="Shift"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" line="16" info="case 4: size is 4 here."/>
+        </error>
+        <error id="integerOverflowCond" severity="warning" msg="Either the switch case &apos;case 4&apos; is redundant or there is signed integer overflow for expression &apos;1&lt;&lt;(size*8)&apos;." verbose="Either the switch case &apos;case 4&apos; is redundant or there is signed integer overflow for expression &apos;1&lt;&lt;(size*8)&apos;." cwe="190">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" line="17" info="Integer overflow"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" line="16" info="case 4: size is 4 here."/>
+        </error>
+        <error id="integerOverflowCond" severity="warning" msg="Either the switch case &apos;case 4&apos; is redundant or there is signed integer overflow for expression &apos;(1&lt;&lt;(size*8))-1&apos;." verbose="Either the switch case &apos;case 4&apos; is redundant or there is signed integer overflow for expression &apos;(1&lt;&lt;(size*8))-1&apos;." cwe="190">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" line="17" info="Integer overflow"/>
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" line="16" info="case 4: size is 4 here."/>
+        </error>
+        <error id="unusedFunction" severity="style" msg="The function &apos;rtl8139_TxStatus_read&apos; is never used." verbose="The function &apos;rtl8139_TxStatus_read&apos; is never used." cwe="561">
+            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_2045.c" line="1"/>
+        </error>
+    </errors>
+</results>

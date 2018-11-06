@@ -1,0 +1,3 @@
+[gsmmap.cnf:438]: (error) Array 'bigbuf[1024]' accessed at index 1024, which is out of bounds.
+[gsmmap.cnf:431]: (style) Variable 'octet' is assigned a value that is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1758.c:2]: (style) The function 'dissect_gsm_map_USSD_String' is never used.

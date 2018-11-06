@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="1.83"/>
+    <errors>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::class&apos; is never used." verbose="struct member &apos;RTMPContext::class&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="2"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::stream&apos; is never used." verbose="struct member &apos;RTMPContext::stream&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="3"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::nb_prev_pkt&apos; is never used." verbose="struct member &apos;RTMPContext::nb_prev_pkt&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="5"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::in_chunk_size&apos; is never used." verbose="struct member &apos;RTMPContext::in_chunk_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="6"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::out_chunk_size&apos; is never used." verbose="struct member &apos;RTMPContext::out_chunk_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="7"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::is_input&apos; is never used." verbose="struct member &apos;RTMPContext::is_input&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="8"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::playpath&apos; is never used." verbose="struct member &apos;RTMPContext::playpath&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="9"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::live&apos; is never used." verbose="struct member &apos;RTMPContext::live&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="10"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::app&apos; is never used." verbose="struct member &apos;RTMPContext::app&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="11"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::conn&apos; is never used." verbose="struct member &apos;RTMPContext::conn&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="12"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::stream_id&apos; is never used." verbose="struct member &apos;RTMPContext::stream_id&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="14"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flv_data&apos; is never used." verbose="struct member &apos;RTMPContext::flv_data&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="15"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flv_size&apos; is never used." verbose="struct member &apos;RTMPContext::flv_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="16"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flv_off&apos; is never used." verbose="struct member &apos;RTMPContext::flv_off&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="17"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flv_nb_packets&apos; is never used." verbose="struct member &apos;RTMPContext::flv_nb_packets&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="18"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::client_report_size&apos; is never used." verbose="struct member &apos;RTMPContext::client_report_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="20"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::bytes_read&apos; is never used." verbose="struct member &apos;RTMPContext::bytes_read&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="21"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::last_bytes_read&apos; is never used." verbose="struct member &apos;RTMPContext::last_bytes_read&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="22"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::last_timestamp&apos; is never used." verbose="struct member &apos;RTMPContext::last_timestamp&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="23"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::skip_bytes&apos; is never used." verbose="struct member &apos;RTMPContext::skip_bytes&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="24"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::has_audio&apos; is never used." verbose="struct member &apos;RTMPContext::has_audio&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="25"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::has_video&apos; is never used." verbose="struct member &apos;RTMPContext::has_video&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="26"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::received_metadata&apos; is never used." verbose="struct member &apos;RTMPContext::received_metadata&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="27"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flv_header&apos; is never used." verbose="struct member &apos;RTMPContext::flv_header&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="28"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flv_header_bytes&apos; is never used." verbose="struct member &apos;RTMPContext::flv_header_bytes&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="29"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::nb_invokes&apos; is never used." verbose="struct member &apos;RTMPContext::nb_invokes&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="30"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::tcurl&apos; is never used." verbose="struct member &apos;RTMPContext::tcurl&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="31"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flashver&apos; is never used." verbose="struct member &apos;RTMPContext::flashver&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="32"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::swfhash&apos; is never used." verbose="struct member &apos;RTMPContext::swfhash&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="33"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::swfhash_len&apos; is never used." verbose="struct member &apos;RTMPContext::swfhash_len&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="34"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::swfsize&apos; is never used." verbose="struct member &apos;RTMPContext::swfsize&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="35"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::swfurl&apos; is never used." verbose="struct member &apos;RTMPContext::swfurl&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="36"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::swfverify&apos; is never used." verbose="struct member &apos;RTMPContext::swfverify&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="37"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::swfverification&apos; is never used." verbose="struct member &apos;RTMPContext::swfverification&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="38"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::pageurl&apos; is never used." verbose="struct member &apos;RTMPContext::pageurl&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="39"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::subscribe&apos; is never used." verbose="struct member &apos;RTMPContext::subscribe&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="40"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::server_bw&apos; is never used." verbose="struct member &apos;RTMPContext::server_bw&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="41"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::client_buffer_time&apos; is never used." verbose="struct member &apos;RTMPContext::client_buffer_time&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="42"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::flush_interval&apos; is never used." verbose="struct member &apos;RTMPContext::flush_interval&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="43"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::encrypted&apos; is never used." verbose="struct member &apos;RTMPContext::encrypted&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="44"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::tracked_methods&apos; is never used." verbose="struct member &apos;RTMPContext::tracked_methods&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="45"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::nb_tracked_methods&apos; is never used." verbose="struct member &apos;RTMPContext::nb_tracked_methods&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="46"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::tracked_methods_size&apos; is never used." verbose="struct member &apos;RTMPContext::tracked_methods_size&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="47"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::listen&apos; is never used." verbose="struct member &apos;RTMPContext::listen&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="48"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::listen_timeout&apos; is never used." verbose="struct member &apos;RTMPContext::listen_timeout&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="49"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::nb_streamid&apos; is never used." verbose="struct member &apos;RTMPContext::nb_streamid&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="50"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::duration&apos; is never used." verbose="struct member &apos;RTMPContext::duration&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="51"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::username&apos; is never used." verbose="struct member &apos;RTMPContext::username&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="52"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::password&apos; is never used." verbose="struct member &apos;RTMPContext::password&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="53"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::auth_params&apos; is never used." verbose="struct member &apos;RTMPContext::auth_params&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="54"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::do_reconnect&apos; is never used." verbose="struct member &apos;RTMPContext::do_reconnect&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="55"/>
+        </error>
+        <error id="unusedStructMember" severity="style" msg="struct member &apos;RTMPContext::auth_tried&apos; is never used." verbose="struct member &apos;RTMPContext::auth_tried&apos; is never used." cwe="563">
+            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_4074.c" line="56"/>
+        </error>
+    </errors>
+</results>

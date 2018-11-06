@@ -1,0 +1,6 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3868.c:2]: (style) struct member 'BlockInfo::factor_table' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3868.c:3]: (style) struct member 'BlockInfo::scan_table' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3868.c:4]: (style) struct member 'BlockInfo::pos' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3868.c:6]: (style) struct member 'BlockInfo::partial_bit_count' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3868.c:7]: (style) struct member 'BlockInfo::partial_bit_buffer' is never used.
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3868.c:8]: (style) struct member 'BlockInfo::shift_offset' is never used.

@@ -1,0 +1,1 @@
+[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1067.c:2]: (style) The function 'dissect_rdm_pd_nack_reason' is never used.
