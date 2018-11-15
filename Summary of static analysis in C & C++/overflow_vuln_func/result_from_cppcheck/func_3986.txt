@@ -1,4 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3986.c:13]: (style) The scope of the variable 'partA_flag' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3986.c:14]: (style) The scope of the variable 'highest_byte' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3986.c:15]: (style) The scope of the variable 'shift_amp' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3986.c:1]: (style) The function 'read_diff_float_data' is never used.

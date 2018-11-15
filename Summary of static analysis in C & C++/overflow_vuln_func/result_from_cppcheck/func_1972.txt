@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1972.c:1]: (style) The function 'vmdk_open_desc_file' is never used.

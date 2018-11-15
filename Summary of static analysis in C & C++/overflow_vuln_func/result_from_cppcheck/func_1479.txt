@@ -1,3 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1479.c:11]: (style) The scope of the variable 'si' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1479.c:12]: (style) The scope of the variable 'mpeg_pmt_stream_tree' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1479.c:2]: (style) The function 'dissect_mpeg_pmt' is never used.

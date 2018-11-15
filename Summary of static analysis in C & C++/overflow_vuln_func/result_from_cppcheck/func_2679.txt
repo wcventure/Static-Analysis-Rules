@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2679.c:111]: (error) syntax error
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2679.c:1]: (style) The function 'tcg_gen_callN' is never used.

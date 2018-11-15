@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2241.c:2]: (style) The function 'cpu_ppc_handle_mmu_fault' is never used.

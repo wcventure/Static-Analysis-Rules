@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_737.c:26]: (error) va_list 'ap' used before va_start() was called.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_737.c:2]: (style) The function 'proto_tree_add_int_bits_format_value' is never used.

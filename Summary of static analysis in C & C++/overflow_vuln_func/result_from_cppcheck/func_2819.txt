@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2819.c:3]: (style) Variable 'dev' is assigned a value that is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2819.c:1]: (style) The function 'packet_id_queue_add' is never used.

@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2636.c:1]: (style) The function 'fw_cfg_add_i64' is never used.

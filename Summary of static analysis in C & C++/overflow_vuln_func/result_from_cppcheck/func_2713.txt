@@ -1,3 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2713.c:4]: (style) struct member 'BDRVParallelsState::catalog_bitmap' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2713.c:5]: (style) struct member 'BDRVParallelsState::catalog_size' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2713.c:7]: (style) struct member 'BDRVParallelsState::tracks' is never used.

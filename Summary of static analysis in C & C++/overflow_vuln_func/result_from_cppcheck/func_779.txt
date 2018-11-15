@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_779.c:2]: (style) The function 'dissect_spoolss_JOB_INFO_2' is never used.

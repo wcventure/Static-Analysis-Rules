@@ -1,6 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3956.c:98]: (style) The scope of the variable 'v' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3956.c:143]: (style) The scope of the variable 'r' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3956.c:143]: (style) The scope of the variable 'g' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3956.c:143]: (style) The scope of the variable 'b' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3956.c:143]: (style) The scope of the variable 'a' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3956.c:1]: (style) The function 'pnm_decode_frame' is never used.

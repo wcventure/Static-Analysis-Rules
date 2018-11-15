@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2016.c:1]: (style) The function 'onenand_prog_main' is never used.

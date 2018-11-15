@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2876.c:2]: (style) struct member 'QCowSnapshotExtraData::vm_state_size_large' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2876.c:3]: (style) struct member 'QCowSnapshotExtraData::disk_size' is never used.

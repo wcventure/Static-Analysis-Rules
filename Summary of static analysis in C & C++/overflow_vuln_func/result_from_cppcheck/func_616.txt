@@ -1,5 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_616.c:93]: (style) Statements following return, break, continue, goto or throw will never be executed.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_616.c:161]: (style) Consecutive return, break, continue, goto or throw statements are unnecessary.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_616.c:6]: (style) The scope of the variable 'ti' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_616.c:9]: (style) The scope of the variable 'new_request_key' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_616.c:2]: (style) The function 'dissect_afp' is never used.

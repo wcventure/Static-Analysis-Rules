@@ -1,3 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1436.c:8]: (style) The scope of the variable 'si' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1436.c:9]: (style) The scope of the variable 'svc_tree' can be reduced.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1436.c:2]: (style) The function 'proto_mpeg_descriptor_dissect_vbi_data' is never used.

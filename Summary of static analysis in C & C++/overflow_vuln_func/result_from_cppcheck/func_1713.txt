@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1713.c:2]: (style) The function 'dissect_isup_circuit_group_char_ind_parameter' is never used.

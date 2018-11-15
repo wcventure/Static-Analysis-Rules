@@ -1,5 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_4411.c:15]: (portability) Shifting a negative value is technically undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_4411.c:16]: (portability) Shifting a negative value is technically undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_4411.c:45]: (style) Variable 'R' is assigned a value that is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_4411.c:47]: (style) Variable 'B' is assigned a value that is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_4411.c:2]: (style) The function 'yuv2rgb48_X_c_template' is never used.

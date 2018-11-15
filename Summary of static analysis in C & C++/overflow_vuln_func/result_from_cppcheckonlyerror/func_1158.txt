@@ -1,1 +1,0 @@
-[..\..\asn1\lte-rrc\packet-lte-rrc-hfarr.c:8508]: (error) syntax error

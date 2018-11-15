@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_979.c:2]: (style) The function 'dissect_lpp_T_otdoa_Mode' is never used.

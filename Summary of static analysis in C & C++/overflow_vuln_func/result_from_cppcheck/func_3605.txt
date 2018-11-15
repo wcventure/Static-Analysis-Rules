@@ -1,3 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3605.c:173]: (style) Statements following return, break, continue, goto or throw will never be executed.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3605.c:347]: (style) Statements following return, break, continue, goto or throw will never be executed.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3605.c:1]: (style) The function 'vc1_parse_frame_header_adv' is never used.

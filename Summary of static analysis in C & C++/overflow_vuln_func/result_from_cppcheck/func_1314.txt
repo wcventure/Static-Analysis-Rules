@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1314.c:10]: (error) Uninitialized variable: msgtype
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1314.c:2]: (style) The function 'dissect_pktc_mtafqdn_krbsafeuserdata' is never used.

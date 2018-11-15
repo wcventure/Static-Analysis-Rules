@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1419.c:2]: (style) The function 'proto_mpeg_descriptor_dissect_video_stream' is never used.

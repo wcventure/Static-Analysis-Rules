@@ -1,6 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2832.c:3]: (style) struct member 'BDRVBochsState::catalog_bitmap' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2832.c:4]: (style) struct member 'BDRVBochsState::catalog_size' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2832.c:6]: (style) struct member 'BDRVBochsState::data_offset' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2832.c:8]: (style) struct member 'BDRVBochsState::bitmap_blocks' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2832.c:9]: (style) struct member 'BDRVBochsState::extent_blocks' is never used.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_2832.c:10]: (style) struct member 'BDRVBochsState::extent_size' is never used.

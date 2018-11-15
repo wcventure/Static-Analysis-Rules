@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3840.c:23]: (error) syntax error
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3840.c:89]: (information) Skipping configuration 'USE_FIXED' since the value of 'USE_FIXED' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.

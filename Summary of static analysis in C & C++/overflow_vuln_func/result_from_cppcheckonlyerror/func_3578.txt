@@ -1,8 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:19]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:20]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:21]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:22]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:23]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:24]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:25]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3578.c:26]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour

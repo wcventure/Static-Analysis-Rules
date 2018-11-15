@@ -1,3 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3971.c:52]: (style) Boolean result is used in bitwise operation. Clarify expression with parentheses.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3971.c:91]: (error) Shifting signed 32-bit value by 31 bits is undefined behaviour
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3971.c:1]: (style) The function 'decode_residual' is never used.

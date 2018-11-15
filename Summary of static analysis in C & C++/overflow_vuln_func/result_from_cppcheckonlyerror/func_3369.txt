@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3369.c:42]: (error) Shifting 64-bit value by 64 bits is undefined behaviour

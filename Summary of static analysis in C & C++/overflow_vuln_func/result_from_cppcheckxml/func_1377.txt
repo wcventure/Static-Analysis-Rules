@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<results version="2">
-    <cppcheck version="1.83"/>
-    <errors>
-        <error id="unusedFunction" severity="style" msg="The function &apos;pppdump_read&apos; is never used." verbose="The function &apos;pppdump_read&apos; is never used." cwe="561">
-            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1377.c" line="2"/>
-        </error>
-    </errors>
-</results>

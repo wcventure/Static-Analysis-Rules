@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<results version="2">
-    <cppcheck version="1.83"/>
-    <errors>
-        <error id="unusedStructMember" severity="style" msg="struct member &apos;_mgcp_call_info_key::conversation&apos; is never used." verbose="struct member &apos;_mgcp_call_info_key::conversation&apos; is never used." cwe="563">
-            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_361.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_361.c" line="4"/>
-        </error>
-    </errors>
-</results>

@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1065.c:14]: (information) Skipping configuration 'EDQUOT' since the value of 'EDQUOT' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1065.c:2]: (style) The function 'file_write_error_message' is never used.

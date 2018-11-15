@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_589.c:2]: (style) struct member '_cnd_capturesize_dat::max_capture_size' is never used.

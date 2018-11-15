@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_3306.c:39]: (information) Skipping configuration 'COMMON_CORE' since the value of 'COMMON_CORE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.

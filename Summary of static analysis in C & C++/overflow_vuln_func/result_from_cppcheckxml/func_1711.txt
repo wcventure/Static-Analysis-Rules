@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<results version="2">
-    <cppcheck version="1.83"/>
-    <errors>
-        <error id="syntaxError" severity="error" msg="syntax error" verbose="syntax error">
-            <location file0="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1711.c" file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_1711.c" line="55"/>
-        </error>
-    </errors>
-</results>

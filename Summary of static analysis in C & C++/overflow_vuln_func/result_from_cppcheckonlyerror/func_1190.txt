@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1190.c:25]: (error) Uninitialized variable: ansi_tcap_saved_invokedata
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1190.c:26]: (error) Uninitialized variable: ansi_tcap_saved_invokedata

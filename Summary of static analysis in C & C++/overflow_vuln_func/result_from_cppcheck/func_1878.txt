@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1878.c:10]: (information) Skipping configuration 'PR_SET_NAME' since the value of 'PR_SET_NAME' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1878.c:1]: (style) The function 'os_set_proc_name' is never used.

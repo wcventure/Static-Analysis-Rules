@@ -1,2 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_902.c:17]: (error) Uninitialized variable: flags_offset
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_902.c:2]: (style) The function 'dissect_amqp_0_10_struct_fragment_properties' is never used.

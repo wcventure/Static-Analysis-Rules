@@ -1,1 +1,0 @@
-[C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C & C++\overflow_vuln_func\function_data\func_1931.c:1]: (style) The function 'vfio_vga_probe_nvidia_3d0_quirk' is never used.

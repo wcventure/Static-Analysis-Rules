@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<results version="2">
-    <cppcheck version="1.83"/>
-    <errors>
-        <error id="unusedFunction" severity="style" msg="The function &apos;gxf_seek&apos; is never used." verbose="The function &apos;gxf_seek&apos; is never used." cwe="561">
-            <location file="C:\Users\admin\Documents\study\Bitbucket Git\staticanalysis\Summary of static analysis in C &amp; C++\overflow_vuln_func\function_data\func_3662.c" line="1"/>
-        </error>
-    </errors>
-</results>
